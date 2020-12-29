@@ -1,6 +1,4 @@
 {
-  "peacock.color": "08d6fc",
-  "vsicons.presets.angular": true,
   "html.format.wrapAttributes": "force-aligned",
   "workbench.colorCustomizations": {
     "activityBar.activeBorder": "#CDDC39",
